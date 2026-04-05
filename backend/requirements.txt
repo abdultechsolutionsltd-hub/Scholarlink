@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+psycopg2-binary
+flask-cors
+gunicorn
+openai
+sendgrid
+python-dotenv
+werkzeug
